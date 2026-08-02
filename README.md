@@ -16,14 +16,14 @@
 - Per-application configuration
 - Two resize modes:
   - **Window Mode** – maintains the aspect ratio of the entire window
-  - **Content Mode** – maintains the aspect ratio of the application's client/content area
+  - **Content Mode** – maintains the aspect ratio of the application's content area
 - Two anchor positions:
   - **Top-Left** – keeps the top-left corner fixed while resizing
   - **Center** – resizes symmetrically around the window center
 - Multi-language interface
 - System tray integration
-- Automatic startup with Windows (optional)
-- Lightweight and portable
+- Optional automatic startup with Windows
+- Lightweight
 
 ## Screenshots:
 
@@ -32,6 +32,12 @@
   
   <img src="Media/Tray.JPG" width="20%" alt="Tray menu">
 </p>
+
+## Download
+
+The latest precompiled executable is available from the **Releases** page.
+
+If you want to inspect, modify, or contribute to the project, the complete source code is available in this repository.
 
 > [!IMPORTANT]
 > **Project Status: Work in Progress**
