@@ -21,6 +21,7 @@ WindowRatioLock automatically maintains user-defined window aspect ratios while 
   - **Center** – resizes symmetrically around the window center
 - Multi-language interface
 - System tray integration
+- Automatic startup with Windows (optional)
 - Lightweight and portable
 
 <p align="center">
