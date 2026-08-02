@@ -33,7 +33,7 @@
   <img src="Media/Tray.JPG" width="20%" alt="Tray menu">
 </p>
 
-## Download
+## Download:
 
 The latest precompiled executable is available from the **Releases** page.
 
@@ -54,13 +54,13 @@ If you want to inspect, modify, or contribute to the project, the complete sourc
 > * General code cleanup and refactoring.
 > * Translation of source code comments from German to English.
 
-## Installation
+## Installation:
 
 1. Download the latest **WindowRatioLock** ZIP archive from the **Releases** section.
 2. Extract the ZIP archive and move the extracted folder to a permanent location (for example, `C:\Program Files\WindowRatioLock` or any folder of your choice).
 3. Double-click **WindowRatioLock.exe** to start the application.
 
-## First Start
+## First Start:
 
 After launching, WindowRatioLock will appear in the Windows system tray.
 
