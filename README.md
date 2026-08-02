@@ -1,12 +1,14 @@
 <table>
 <tr>
 <td>
+
 # WindowRatioLock
 WindowRatioLock automatically maintains user-defined window aspect ratios while resizing application windows on Windows 10/11.
-</td>
-<td width="30">
 
-<img src="Mdeia/ICONS.png" width="30" alt="Settings">
+</td>
+<td>
+
+<img src="Media/ICONS.png" width="96">
 
 </td>
 </tr>
