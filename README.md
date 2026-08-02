@@ -1,6 +1,11 @@
-# WindowRatioLock
 <p align="center">
-  <img src="Media/ICON.png" width="96" alt="WindowRatioLock logo">
+  <img src="Media/ICON.png" width="96" alt="WindowRatioLock">
+</p>
+
+<h1 align="center">WindowRatioLock</h1>
+
+<p align="center">
+Automatically maintains user-defined window aspect ratios while resizing application windows on Windows 10/11.
 </p>
 WindowRatioLock automatically maintains user-defined window aspect ratios while resizing application windows on Windows 10/11.
 
