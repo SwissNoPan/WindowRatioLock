@@ -5,9 +5,10 @@
 <h1 align="center">WindowRatioLock</h1>
 
 <p align="center">
-
-### WindowRatioLock automatically maintains user-defined window aspect ratios while resizing application windows on Windows 10/11.
-
+  <strong>
+    WindowRatioLock automatically maintains user-defined window aspect ratios
+    while resizing application windows on Windows 10/11.
+  </strong>
 </p>
 
 ## Features:
