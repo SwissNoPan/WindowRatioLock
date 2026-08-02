@@ -25,6 +25,7 @@ WindowRatioLock automatically maintains user-defined window aspect ratios while 
 
 <p align="center">
   <img src="Media/WindowRatioLock.jpg" width="70%" alt="Settings">
+  
   <img src="Media/Tray.JPG" width="20%" alt="Tray menu">
 </p>
 
