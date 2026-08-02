@@ -22,3 +22,6 @@ WindowRatioLock automatically maintains user-defined window aspect ratios while 
 - Multi-language interface
 - System tray integration
 - Lightweight and portable
+<p align="center">
+  <img src="Media/WindowRatioLock.jpg" width="700" alt="Settings">
+</p>
