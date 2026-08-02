@@ -32,3 +32,18 @@
   
   <img src="Media/Tray.JPG" width="20%" alt="Tray menu">
 </p>
+
+> [!IMPORTANT]
+> **Project Status: Work in Progress**
+>
+> WindowRatioLock is still a work in progress. Although it is stable and works well for my own use cases, the codebase is currently not as clean or well-structured as I would like, and many comments are still written in German.
+>
+> The project was developed with the assistance of AI as my first larger programming project. There may still be bugs, edge cases, or compatibility issues with certain applications.
+>
+> Feedback, bug reports, suggestions, and pull requests are greatly appreciated.
+>
+> **Planned features**
+>
+> * Manual viewport offset adjustment for applications where **Content Mode** does not correctly detect the application's content area.
+> * General code cleanup and refactoring.
+> * Translation of source code comments from German to English.
