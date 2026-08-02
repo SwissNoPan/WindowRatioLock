@@ -53,3 +53,21 @@ If you want to inspect, modify, or contribute to the project, the complete sourc
 > * Manual viewport offset adjustment for applications where **Content Mode** does not correctly detect the application's content area.
 > * General code cleanup and refactoring.
 > * Translation of source code comments from German to English.
+
+## Installation
+
+1. Download the latest **WindowRatioLock** ZIP archive from the **Releases** section.
+2. Extract the ZIP archive and move the extracted folder to a permanent location (for example, `C:\Program Files\WindowRatioLock` or any folder of your choice).
+3. Double-click **WindowRatioLock.exe** to start the application.
+
+## First Start
+
+After launching, WindowRatioLock will appear in the Windows system tray.
+
+* **Double-click** the tray icon to open the **Settings** window.
+* **Right-click** the tray icon to open the context menu and optionally enable **Start with Windows**.
+* Add the applications you want to manage and configure the desired aspect ratio and resize mode for each one.
+
+> [!TIP]
+> Keep the entire WindowRatioLock folder together. Do not move or delete individual files, as the application requires the included resources to function correctly.
+
