@@ -25,7 +25,7 @@
 - Automatic startup with Windows (optional)
 - Lightweight and portable
 
-## Screenshots
+## Screenshots:
 
 <p align="center">
   <img src="Media/WindowRatioLock.jpg" width="70%" alt="Settings">
