@@ -1,8 +1,8 @@
+<h1 align="center">WindowRatioLock</h1>
+
 <p align="center">
   <img src="Media/ICON.png" width="124" alt="WindowRatioLock">
 </p>
-
-<h1 align="center">WindowRatioLock</h1>
 
 <p align="center">
   <strong>
