@@ -52,7 +52,6 @@ If you want to inspect, modify, or contribute to the project, the complete sourc
 >
 > * Manual viewport offset adjustment for applications where **Content Mode** does not correctly detect the application's content area.
 > * General code cleanup and refactoring.
-> * Translation of source code comments from German to English.
 
 ## Installation:
 
